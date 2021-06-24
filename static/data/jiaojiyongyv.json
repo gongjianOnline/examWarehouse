@@ -1,0 +1,1039 @@
+{
+  "data":[
+    {
+      "code":"1",
+      "title":"Why didn’t you come to my birthday party yesterday?  --____________.",
+      "answer":"D",
+      "option":[
+        {
+          "label":"A Excuse me, my friend sent me a flower",
+          "value":"A"
+        },
+        {
+          "label":"B Fine, I never go to birthday parties",
+          "value":"B"
+        },
+        {
+          "label":"C Well, I don’t like birthday parties",
+          "value":"C"
+        },
+        {
+          "label":"D Sorry, but my wife had a car accident",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"2",
+      "title":"This box is too heavy for me to carry upstairs.  --____________. ",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A You may ask for help",
+          "value":"A"
+        },
+        {
+          "label":"B I’ll give you a hand",
+          "value":"B"
+        },
+        {
+          "label":"C Please do me a favor",
+          "value":"C"
+        },
+        {
+          "label":"D I’d come to help",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"3",
+      "title":"That’s a beautiful dress you have on! --_________.",
+      "answer":"A",
+      "option":[
+        {
+          "label":"A Oh, thanks. I got it yesterday",
+          "value":"A"
+        },
+        {
+          "label":"B Sorry, it’s too cheap",
+          "value":"B"
+        },
+        {
+          "label":"C You can have it",
+          "value":"C"
+        },
+        {
+          "label":"D See you later",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"4",
+      "title":"David injured his leg playing football yesterday. -Really?______?",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A Who did that",
+          "value":"A"
+        },
+        {
+          "label":"B What’s wrong with him",
+          "value":"B"
+        },
+        {
+          "label":"C How did that happen",
+          "value":"C"
+        },
+        {
+          "label":"D Why was he so careless",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"5",
+      "title":"Hi, is Mary there, please? -- ___________",
+      "answer":"A",
+      "option":[
+        {
+          "label":"A Hold on. I’ll get her.",
+          "value":"A"
+        },
+        {
+          "label":"B No, she isn’t here. ",
+          "value":"B"
+        },
+        {
+          "label":"C Yes, she lives here.",
+          "value":"C"
+        },
+        {
+          "label":"D Yes, what do you want?",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"6",
+      "title":"-It’s rather cold in here. Do you mind if I close the window? -- ________.",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A Yes, please",
+          "value":"A"
+        },
+        {
+          "label":"B No, go ahead",
+          "value":"B"
+        },
+        {
+          "label":"C Sure, please",
+          "value":"C"
+        },
+        {
+          "label":"D I don’t like it",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"7",
+      "title":"-Medam,do all the buses go downtown? -- _____.",
+      "answer":"D",
+      "option":[
+        {
+          "label":"A Wow, you got the idea",
+          "value":"A"
+        },
+        {
+          "label":"B No, never mind",
+          "value":"B"
+        },
+        {
+          "label":"C pretty well, I guess",
+          "value":"C"
+        },
+        {
+          "label":"D Sorry, I’m new here",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"8",
+      "title":"-Could I speak to Don Watkins, please? -________",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A I’m listening.",
+          "value":"A"
+        },
+        {
+          "label":"B Oh, how are you?",
+          "value":"B"
+        },
+        {
+          "label":"C  Speaking, please.",
+          "value":"C"
+        },
+        {
+          "label":"D I’m Don",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"9",
+      "title":"-Thanks for your help. - ____.",
+      "answer":"A",
+      "option":[
+        {
+          "label":"A My pleasure",
+          "value":"A"
+        },
+        {
+          "label":"B Never mind",
+          "value":"B"
+        },
+        {
+          "label":"C Quite right",
+          "value":"C"
+        },
+        {
+          "label":"D Don’t thank me",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"10",
+      "title":"-Hello, I’m Harry Potter.  -Hello, my name is Charles Green, but _____.",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A call my Charles",
+          "value":"A"
+        },
+        {
+          "label":"B call me at Charles",
+          "value":"B"
+        },
+        {
+          "label":"C call me Charles",
+          "value":"C"
+        },
+        {
+          "label":"D call Charles me",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"11",
+      "title":"-Excuse me, could you show me the way to the nearest post office? -_____ Oh yes! Two blocks away from here at the Green Avenue. You can’t miss it.",
+      "answer":"D",
+      "option":[
+        {
+          "label":"A I beg your pardon?",
+          "value":"A"
+        },
+        {
+          "label":"B What do you mean?",
+          "value":"B"
+        },
+        {
+          "label":"C You’re welcome",
+          "value":"C"
+        },
+        {
+          "label":"D Mm, let me think.",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"12",
+      "title":"--Unbelievable! I have failed the driving test again! -- ______. This is not the end of the world.",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A. Good luck",
+          "value":"A"
+        },
+        {
+          "label":"B Cheer up",
+          "value":"B"
+        },
+        {
+          "label":"C Go ahead",
+          "value":"C"
+        },
+        {
+          "label":"D No problem",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"13",
+      "title":"--Could you help me with my physics, please? -- ____.",
+      "answer":"D",
+      "option":[
+        {
+          "label":"A. No, no way",
+          "value":"A"
+        },
+        {
+          "label":"B No, I couldn’t",
+          "value":"B"
+        },
+        {
+          "label":"C No, I can’t",
+          "value":"C"
+        },
+        {
+          "label":"D Sorry I can’t. I have to go to a meeting right now",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"14",
+      "title":"—Haven’t seen you for ages! What are you busy doing now? --______.",
+      "answer":"D",
+      "option":[
+        {
+          "label":"A. I have the weather here",
+          "value":"A"
+        },
+        {
+          "label":"B My hair is getting a bit longer",
+          "value":"B"
+        },
+        {
+          "label":"C Yeah, thanks for coming",
+          "value":"C"
+        },
+        {
+          "label":"D I am working part time in a bookshop, you know",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"15",
+      "title":"—How do you do? Glad to meet you. --______.",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A. Fine. How are you?",
+          "value":"A"
+        },
+        {
+          "label":"B How do you do? Glad to meet you, too. ",
+          "value":"B"
+        },
+        {
+          "label":"C How are you? Thank you!",
+          "value":"C"
+        },
+        {
+          "label":"D Nice. How are you?",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"16",
+      "title":"—Who’s that speaking?/ Who’s speaking? --This is Tom _____",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A speaks",
+          "value":"A"
+        },
+        {
+          "label":"B spoken",
+          "value":"B"
+        },
+        {
+          "label":"C speaking",
+          "value":"C"
+        },
+        {
+          "label":"D saying",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"17",
+      "title":"—How are you, Bob? -- ____, Ted.",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A How are you?",
+          "value":"A"
+        },
+        {
+          "label":"B I’m fine. Thank you.",
+          "value":"B"
+        },
+        {
+          "label":"C How do you do?",
+          "value":"C"
+        },
+        {
+          "label":"D Nice to meet you.",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"18",
+      "title":"-Paul,_____? -Oh, that’s my father! And beside him, my mother.",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A. what is the person over there.",
+          "value":"A"
+        },
+        {
+          "label":"B. who’s talking over there. ",
+          "value":"B"
+        },
+        {
+          "label":"C. what are they doing.",
+          "value":"C"
+        },
+        {
+          "label":"D. which is that.",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"19",
+      "title":"-How often do you go dancing? -______.",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A.I will go dancing tomorrow.",
+          "value":"A"
+        },
+        {
+          "label":"B. Yesterday.",
+          "value":"B"
+        },
+        {
+          "label":"C. Every other day.",
+          "value":"C"
+        },
+        {
+          "label":"D. I’ve been dancing for a year.",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"20",
+      "title":"-Hello, may I talk to the director now? - _____.",
+      "answer":"A",
+      "option":[
+        {
+          "label":"A. Sorry, he is busy at the moment.",
+          "value":"A"
+        },
+        {
+          "label":"B. No, you can’t. ",
+          "value":"B"
+        },
+        {
+          "label":"C. Sorry, you can’t.",
+          "value":"C"
+        },
+        {
+          "label":"D.I don’t know.",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"21",
+      "title":"--I’m sorry. I lost the key. -- ____.",
+      "answer":"A",
+      "option":[
+        {
+          "label":"A. Well, it’s OK",
+          "value":"A"
+        },
+        {
+          "label":"B. No, it’s all right",
+          "value":"B"
+        },
+        {
+          "label":"C. You are welcome",
+          "value":"C"
+        },
+        {
+          "label":"D. You are wrong",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"22",
+      "title":"-- _____ ? --He teaches physics in a school.",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A. what does your father want to do",
+          "value":"A"
+        },
+        {
+          "label":"B. who is your father",
+          "value":"B"
+        },
+        {
+          "label":"C. what is your father",
+          "value":"C"
+        },
+        {
+          "label":"D. where is your father now",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"23",
+      "title":"-How was your trip to London, Jane? -_____.",
+      "answer":"A",
+      "option":[
+        {
+          "label":"A. Oh, wonderful indeed",
+          "value":"A"
+        },
+        {
+          "label":"B.I went there alone",
+          "value":"B"
+        },
+        {
+          "label":"C. The guide showed me the way",
+          "value":"C"
+        },
+        {
+          "label":"D. By plane and by bus",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"24",
+      "title":"Thank you for inviting me. - _____.",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A.I really had a happy time.",
+          "value":"A"
+        },
+        {
+          "label":"B. Oh, it’s too late. ",
+          "value":"B"
+        },
+        {
+          "label":"C. Thank you for coming.",
+          "value":"C"
+        },
+        {
+          "label":"D. Oh, so slowly",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"25",
+      "title":"-May I see your tickets, please? -_____",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A. No, they are mine",
+          "value":"A"
+        },
+        {
+          "label":"B. No, you can’t",
+          "value":"B"
+        },
+        {
+          "label":"C. Sure",
+          "value":"C"
+        },
+        {
+          "label":"D. Yes, you can",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"26",
+      "title":".--Please help yourself to the seafood. -_______",
+      "answer":"D",
+      "option":[
+        {
+          "label":"A. No, I can’t.",
+          "value":"A"
+        },
+        {
+          "label":"B. Sorry, I can’t help",
+          "value":"B"
+        },
+        {
+          "label":"C. well, seafood don’t suit for",
+          "value":"C"
+        },
+        {
+          "label":"D. Thanks, but I don’t like the seafood",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"27",
+      "title":"-Hey, Tom, what’s up? -_____.",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A. Yes, definitely!",
+          "value":"A"
+        },
+        {
+          "label":"B. Oh, not much. ",
+          "value":"B"
+        },
+        {
+          "label":"C. What is happening in your life?",
+          "value":"C"
+        },
+        {
+          "label":"D. You are lucky.",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"28",
+      "title":"-Do you mind my smoking here? -______.",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A. No, thanks",
+          "value":"A"
+        },
+        {
+          "label":"B. Yes, I do",
+          "value":"B"
+        },
+        {
+          "label":"C. Yes, I’d rather not",
+          "value":"C"
+        },
+        {
+          "label":"D. Good idea",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"29",
+      "title":"-I wonder if I could use your computer tonight? - _____ I’m not using it right now.",
+      "answer":"A",
+      "option":[
+        {
+          "label":"A. Sure, go ahead.",
+          "value":"A"
+        },
+        {
+          "label":"B.I don't know.",
+          "value":"B"
+        },
+        {
+          "label":"C. It doesn't matter.",
+          "value":"C"
+        },
+        {
+          "label":"D. Who cares?",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"30",
+      "title":"-We are going to have a singing party tonight. Would you like to join us? - ____.",
+      "answer":"A",
+      "option":[
+        {
+          "label":"A I’m afraid not, because I have to go to an important meeting",
+          "value":"A"
+        },
+        {
+          "label":"B Of course not. I have no idea",
+          "value":"B"
+        },
+        {
+          "label":"C No, I can’t",
+          "value":"C"
+        },
+        {
+          "label":"D That’s all set",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"31",
+      "title":"-How about going to dinner at the Mexican restaurant tonight? -______!",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A Forget it.",
+          "value":"A"
+        },
+        {
+          "label":"B Sorry, I like Mexican food.",
+          "value":"B"
+        },
+        {
+          "label":"C That’s great!",
+          "value":"C"
+        },
+        {
+          "label":"D Glad you like it.",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"32",
+      "title":"-Shall we sit up here on the grass or down there near the water? - _____.",
+      "answer":"A",
+      "option":[
+        {
+          "label":"A I’d rather stay here if you don’t mind.",
+          "value":"A"
+        },
+        {
+          "label":"B Sorry, I don’t like neither.",
+          "value":"B"
+        },
+        {
+          "label":"C Certainly, why not?",
+          "value":"C"
+        },
+        {
+          "label":"D Yes, we like these two places.",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"33",
+      "title":"-Is it possible for you to work late tonight? - ___",
+      "answer":"D",
+      "option":[
+        {
+          "label":"A I like it",
+          "value":"A"
+        },
+        {
+          "label":"B I’ll do that",
+          "value":"B"
+        },
+        {
+          "label":"C I’d love to",
+          "value":"C"
+        },
+        {
+          "label":"D I think so",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"34",
+      "title":"-Must I take a taxi? -No, you ____ . You can take a car.",
+      "answer":"D",
+      "option":[
+        {
+          "label":"A had better to",
+          "value":"A"
+        },
+        {
+          "label":"B don’t",
+          "value":"B"
+        },
+        {
+          "label":"C must not",
+          "value":"C"
+        },
+        {
+          "label":"D don’t have to",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"35",
+      "title":"-Would you mind changing seats with me? - ____.",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A Yes, you can",
+          "value":"A"
+        },
+        {
+          "label":"B Of course, I like to",
+          "value":"B"
+        },
+        {
+          "label":"C No, I don’t mind",
+          "value":"C"
+        },
+        {
+          "label":"D Certainly, please do",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"36",
+      "title":"-Wow!This is a marvelous room! I’ve never known you’re so artistic. - _____.",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A Great, I am very art-conscious",
+          "value":"A"
+        },
+        {
+          "label":"B Don’t mention it",
+          "value":"B"
+        },
+        {
+          "label":"C Thanks for your compliments",
+          "value":"C"
+        },
+        {
+          "label":"D It’s fine",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"37",
+      "title":"-_____? -Well, they got there last Wednesday. So about a week.",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A When did your parents arrive at Paris",
+          "value":"A"
+        },
+        {
+          "label":"B How long have your parents been in Paris",
+          "value":"B"
+        },
+        {
+          "label":"C Did your parents arrive at Paris last Wednesday",
+          "value":"C"
+        },
+        {
+          "label":"D When will your parents go to Paris",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"38",
+      "title":"-Could I borrow your car for a few day? -____.",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A Yes, you may borrow",
+          "value":"A"
+        },
+        {
+          "label":"B Yes, go on",
+          "value":"B"
+        },
+        {
+          "label":"C Sure, here you are. Enjoy your journey",
+          "value":"C"
+        },
+        {
+          "label":"D It doesn’t matter",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"39",
+      "title":"-Congratulations!You won the first prize in today’s speech contest. -______.",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A Yes, I beat the others",
+          "value":"A"
+        },
+        {
+          "label":"B No, no, I didn’t do it well",
+          "value":"B"
+        },
+        {
+          "label":"C Thank you",
+          "value":"C"
+        },
+        {
+          "label":"D It’s pleasure",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"40",
+      "title":"-Hi,Tom, how’s everything with you? - ___ , and how are you?",
+      "answer":"B",
+      "option":[
+        {
+          "label":" A Don’t mention it",
+          "value":"A"
+        },
+        {
+          "label":"B Hm, not too bad",
+          "value":"B"
+        },
+        {
+          "label":"C Thanks ",
+          "value":"C"
+        },
+        {
+          "label":"D Pretty fast",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"41",
+      "title":"-Can you go to the concert with us this evening? - ____.",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A No, I already have plans",
+          "value":"A"
+        },
+        {
+          "label":"B I’d love to, but I’m busy tonight",
+          "value":"B"
+        },
+        {
+          "label":"C No, I really don’t like being with you",
+          "value":"C"
+        },
+        {
+          "label":"D I’m ill, so I shouldn’t go out",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"42",
+      "title":"-Marilyn, I’m afraid I have to be leaving now. - ____?",
+      "answer":"B",
+      "option":[
+        {
+          "label":"A That sounds wonderful.",
+          "value":"A"
+        },
+        {
+          "label":"B Oh, so early?",
+          "value":"B"
+        },
+        {
+          "label":"C Not at all.",
+          "value":"C"
+        },
+        {
+          "label":"D Good luck!",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"43",
+      "title":"Hi, welcome back! Had a nice trip? -___!",
+      "answer":"A",
+      "option":[
+        {
+          "label":"A. Oh, fantastic! Fresh air, and sunshine every day. ",
+          "value":"A"
+        },
+        {
+          "label":"B. Come on, I’ve got lots of fun.",
+          "value":"B"
+        },
+        {
+          "label":"C. By the way, I don’t like Saturdays.",
+          "value":"C"
+        },
+        {
+          "label":"D. Well, I’ll look forward to your phone call.",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"44",
+      "title":"—Excuse me, how much is the jacket? —It’s 499 Yuan. ____ .",
+      "answer":"D",
+      "option":[
+        {
+          "label":"A. Oh, no. That’s OK!",
+          "value":"A"
+        },
+        {
+          "label":"B. How do you like it?",
+          "value":"B"
+        },
+        {
+          "label":"C. Which do you prefer?",
+          "value":"C"
+        },
+        {
+          "label":"D. Would you like to try it on?",
+          "value":"D"
+        }
+      ]
+    },
+    {
+      "code":"45",
+      "title":"— May I use your bike for a moment? -______.",
+      "answer":"C",
+      "option":[
+        {
+          "label":"A. It’s well.",
+          "value":"A"
+        },
+        {
+          "label":"B. It doesn’t matter.",
+          "value":"B"
+        },
+        {
+          "label":"C. By all means.",
+          "value":"C"
+        },
+        {
+          "label":"D. I have no idea.",
+          "value":"D"
+        }
+      ]
+    }
+  ]
+}

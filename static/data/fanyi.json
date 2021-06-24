@@ -1,0 +1,806 @@
+{
+  "data":[
+    {
+      "enText":"A lot of natural resources in the mountain area are to be exploited and used.",
+      "znText":"那个山区有许多自然资源有待于开发利用",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"All that glitters is not gold.",
+      "znText":"闪光的东西，未必都是金子",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Apples here like water and sunshine.",
+      "znText":"这里的苹果喜欢水和阳光",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"As is known to all, China is a developing country.",
+      "znText":"众所周知，中国是一个发展中国家。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Bill hit his car into a wall last night.",
+      "znText":"昨晚比尔开车时车撞到了墙上。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Each time history repeats itself, the price goes up.",
+      "znText":"历史每重演一次，代价就增加（一分）。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He has taught English in this university ever since he moved to this city．",
+      "znText":"自从移居到这座城市以来，他就一直在这所大学教英语。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I was having a nap when suddenly the telephone rang.",
+      "znText":"我在睡觉时，电话铃突然响了。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"If you decided to learn a new language, you would have to dedicate yourself wholeheartedly to the cause.",
+      "znText":"如果你决定学一门新的语言，你必须全身心地投入",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"In an age of plenty, we feel spiritual hunger.",
+      "znText":"在这个物质财富充裕的时代，我们感到精神上的饥渴。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"In no other country in the world can you find such plants as this one.",
+      "znText":"像这种植物在世界上的其他任何一个国家中都找不到。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"John and his brother differ in personality even if their differences in age are not significant.",
+      "znText":"尽管约翰和他哥哥在年纪上相差不大，但他们的个性却不相同。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Please give this book to whoever comes first.",
+      "znText":"请把这本书给最先来的人。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Please move your chair to the window",
+      "znText":"请把你的椅子移动到窗口",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Ted and William have lived under the same roof for five years.",
+      "znText":"泰德和威廉已经在同一个屋檐下生活了五年了。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"The more passions we have, the more happiness we are likely to experience.",
+      "znText":"我们的激情越多，我们有可能体验到的快乐就越多。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"The students are encouraged by their teacher to do more listening, reading and writing.",
+      "znText":"老师鼓励学生多听，多读，多写。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"There is a large amount of energy wasted due to friction.",
+      "znText":"由于摩擦而损耗了大量的能量。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"This place has plentiful material resources.",
+      "znText":"这个地方有丰富的物质资源。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Though it was late, they kept on working.",
+      "znText":"尽管已经很晚了，他们还在继续工作。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Tom（人名有可能变化或Fred）was such a hardworking student that he soon came out first in the class.",
+      "znText":"汤姆是一个学习十分用功的学生，以至于不久他就成了班里学习最好的学生。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Transistors are small in size and light in weight.",
+      "znText":"晶体管的体积小，重量轻。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Various substances differ widely in their magnetic characteristics.",
+      "znText":"各种材料的磁性有很大的不同。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Wang Li’s（人名有可能变化,4月为：Tom’s） father has taught English here since he graduated from Peking University. ",
+      "znText":"王丽的父亲从北京大学毕业后就一直在这里教英语。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"would you please help me with this heavy box?",
+      "znText":"你能帮我搬一下这个很沉的箱子吗？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"You needn’t go there anymore. He already knows about it.",
+      "znText":"你不必去了，他已经知道那件事",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"They thought that there must be something wrong with their TV set.",
+      "znText":"他们认为电视机一定出了毛病。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Life is meaningless without a purpose.",
+      "znText":"没有目标的生活是毫无意义的。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He didn't need to attend the meeting",
+      "znText":"他没必要参加那个会议。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"The friend say everything but did not say single word.",
+      "znText":"这位朋友看到了一切，却一言不发。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I will finish reading this book in a week.",
+      "znText":"我会在一周之内把这本书看完。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"You should look around before you cross the street.",
+      "znText":"在过马路之前，你应该向四周看看。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I read the local newspapers with great interest every evening.",
+      "znText":"每晚我怀着极大的兴趣读当地的报纸。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He prefers coffee to tea.比起喝茶，他更喜欢喝咖啡",
+      "znText":"比起喝茶，他更喜欢喝咖啡",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Our textbooks are very different from theirs",
+      "znText":"我们的教材与他们的教材很不一样",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"The doctor told me to have more water.",
+      "znText":"医生叫我多喝水",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"My classmate is more clever than me.",
+      "znText":"我的同学比我聪明。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"The people’s Republic of China (PRC), founded on October 1,1949, covers an area of 9.6 million square kilometers.",
+      "znText":"中华人民共和国成立于1949年10月1日，国土面积约960万平方公里。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"People all over the world are trying to help the people in Sichuan.",
+      "znText":"全世界人民都在尽力帮助四川人民。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"We must take some measures to control the pollution.",
+      "znText":"我们必须采取措施来控制污染。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Trees need water to grow.",
+      "znText":"树木需要水才能生长。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"A friend of mine from high school is working in England now.",
+      "znText":"我高中的一个朋友目前在英格兰工作。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I rang you house last night but your mother answered the phone.",
+      "znText":"我昨晚给你家打电话， 但接电话的是你母亲。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I knocked on the door but nobody came to answer it.",
+      "znText":"我敲了门，但是没有人来开门",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Would you mind closing the window for me?",
+      "znText":"你能帮我关一下窗户吗？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"This new country hopes to establish friendly relations with all its neighbors.",
+      "znText":"这个新建立的国家希望和所有的邻国建立友好关系。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Most student feel satisfied with the progress they’ve made.",
+      "znText":"大多数学生对自己所取得的进步感到满意。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"The doctor had no choice but reach out to their colleagues across the nation.",
+      "znText":"那个医生别无选择，只能向全国的同行求助。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Do you think you can do it by yourself?",
+      "znText":"你认为你自己可以单独完成这件事吗？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"The Olympic Games is an international sports event that takes place every four years.",
+      "znText":"奥林匹克运动会是国际性的体育会，每四年举办一次。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"She likes to help anyone who is in difficulty.",
+      "znText":"她乐意帮助任何一个有困难的人。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Who can help me clean the room?",
+      "znText":"谁能帮我打扫房间？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"We should encourage him to have confidence in himself.",
+      "znText":"我们应当鼓励他对自己要有信心。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":" I slept soundly all night.",
+      "znText":"我整夜睡得很熟",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Have you seen Tom recently?",
+      "znText":"你最近见到汤姆了吗？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I hope we can have some snow this winter.",
+      "znText":"我希望今年冬天会下雪",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Are you fond of music?",
+      "znText":"你喜欢音乐吗？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"You’d better do that again.",
+      "znText":"你最好再做一遍。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"What kind of life do most people enjoy?",
+      "znText":"多数人喜欢什么样的生活？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"How are you doing these days?",
+      "znText":"你最近怎么样？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"This box can hold more books than that one.",
+      "znText":"这个箱子比那个箱子能装更多的书。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Both Ann and Mary are suitable for the job.",
+      "znText":"安妮和玛丽都适合干这个工作。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I hurried to my office. ",
+      "znText":"我匆忙赶到了办公室。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"The traffic jams during morning and afternoons rush hours are a headache in big cities now.",
+      "znText":"上下班高峰期交通拥堵问题是大城市目前很棘手的问题。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Do you have access to the Internet? ",
+      "znText":"你能上网吗？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Do you think students should do a part-time job?",
+      "znText":"1.你认为学生应该做兼职吗？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Give us a few more minutes to decide.",
+      "znText":"再给我们几分钟时间来做决定。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He has sympathy for all poor people.",
+      "znText":"他对所有的穷人都有一颗同情心。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I am wondering who broke the window",
+      "znText":"我想知道是谁打坏了窗户。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I think the picture shows us how fruits is necessary to life.",
+      "znText":"5.我想这幅图是告诉我们水果是生活中不可缺的。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"In Foreign Languages Department, a checking machine is used to correct the students’ test papers",
+      "znText":"外语系用阅卷机给学生批卷",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"The girls are busy making preparations for the weekend party",
+      "znText":"女孩们正忙于准备周末的聚会",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"The most common samples of inorganic materials are the gases of the atmosphere, water, rocks, ect.",
+      "znText":"大气中的气体，水， 岩石等都是无机物中最普通的实例。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Who's going to answer the telephone?/Who's going to answer the door?",
+      "znText":"谁去接电话？/谁去开门？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Could you tell me where the post office is?",
+      "znText":"你能告诉我邮局在什么地方吗？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"What time do you swimming every day?",
+      "znText":"你每天什么时候去游泳？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Look out the window it’s still raining today!",
+      "znText":"看窗外，今天还在下雨。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I’ve lost interest in my work.",
+      "znText":"我对这份工作已经失去了兴趣。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"It’s very important to maintain your current weight though exercise and healthy eating.",
+      "znText":"14.通过锻炼和健康饮食来保持你目前的体重是非常重要的。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"It normally takes a semester for a college freshman to adjust to this college life.",
+      "znText":"大学新生一般需要花一个学期的时间来适应大学生活。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I would appreciate it if you would just left me deal with this case.",
+      "znText":"16.如果你能让我独自处理这桩案件，我将不胜感激。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He has a foreign friend who lives in America.",
+      "znText":"他有一个住在美国的外国朋友",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He was very happy to hear from his old friend.",
+      "znText":"他很高兴收到老朋友的来信。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I’m thinking about a visit to Paris.",
+      "znText":"我在考虑去巴黎旅游。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"A dog is always well-known as a clever and friendly animal.",
+      "znText":"20.在动物中， 狗素以其聪明与和善而著称。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"A good memory is a great help in learning a language.",
+      "znText":"好的记忆力有助于语言的学习。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"A teacher should have patience in his work.",
+      "znText":"22.当老师应当有耐心。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"As long as there is water, plants won’t die quickly.",
+      "znText":"只要有水， 植物就不会很快死亡。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Can you express yourself clearly in English?",
+      "znText":" 你能用英语清楚的表达自己的意思吗？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"China will build up a space station in ten years.",
+      "znText":"中国将会在10年内建一个太空站。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Christmas is the most important festival in the west.",
+      "znText":"26.圣诞节是西方最重要的节日。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Do you often do washing in the evening?",
+      "znText":"你经常晚上洗衣服吗？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Don’t you mind me opening the window?",
+      "znText":"你不介意我打开窗户吧？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Don’t you think smoking is harmful to your health?",
+      "znText":"你不认为吸烟有害健康吗?",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Everyone was in bed except me. ",
+      "znText":"除了我， 所有的人都在床上睡觉了。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Excuse me, where’s the nearest police station?",
+      "znText":"劳驾，离这儿最近的派出所在哪里？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Fires may do more damage than the earthquakes.",
+      "znText":"火灾造成的损失可能比地震还严重。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"Go down this street until you reach the second traffic lights.",
+      "znText":"33.顺着这条路走，一直走到第二个交通灯处。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He doesn’t know what life means to him.",
+      "znText":" 他不知道人生的意义。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He had a traffic accident last week.",
+      "znText":"他上星期出了一起交通事故。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He has been learning English for years.",
+      "znText":"36.多年来，他一直在学习英语",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He has taught in this university since he moved to this city.",
+      "znText":"37.他从他搬迁到这座城市之后就一直在这所大学里教英语。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He is always making excuses for being late.",
+      "znText":"他总是为他的吃到找借口。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He is always very active in student activities",
+      "znText":"他总是积极参与学生活动。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He is sweating all over.他出了一身汗",
+      "znText":"他出了一身汗",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He is thinking about moving to a new place",
+      "znText":"41.他正在考虑搬到一个新的的地方",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He keeps looking at himself in the mirror",
+      "znText":"42.他老是照镜子。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He stopped smoking",
+      "znText":"他戒烟了。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"He was too tired to go on reading.",
+      "znText":"他太困了，无法再阅读了。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"How do you spell your last name?",
+      "znText":"你的姓是如何拼写的？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"How long have you collected your stamps?",
+      "znText":"你集邮有多久了？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"How long will it take us to get there?",
+      "znText":"我们到那儿要用多长时间？",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I am very familiar with his name.",
+      "znText":"我很熟悉他的名字",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I came back because of the rain.",
+      "znText":"因为下雨我就回来了。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I can't go with you today because I'm too busy.",
+      "znText":"我今天不能和你一块儿去，因为我太忙了。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I do want to know what really happened. ",
+      "znText":"我确实想知道到底发生了什么事。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I don't think he can operate the new type of computer.",
+      "znText":"我认为他不会操作这种计算机。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I don't want to spend five dollars on a cup of water",
+      "znText":"我不想花五美元买一瓶水。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I expect she will have changed her mind by tomorrow.",
+      "znText":"我预料到明天为止她会改变观点。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I feel lonely without you.",
+      "znText":"没有你我感到孤独",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I feel satisfied with my life.",
+      "znText":"我对我的生活感到满意。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I have a pain in my back.",
+      "znText":"我的背疼。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I look forward to hearing from you.",
+      "znText":"我期待着收到您的回信。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I need to buy some 50-cent stamps.",
+      "znText":"我需要买一些50美分的邮票",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I prefer tea to coffee.",
+      "znText":"我宁可要茶，不要咖啡",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I think our dream will become ture",
+      "znText":"我想我们的梦想将实现",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I'll call you as soon as I arrive.",
+      "znText":"我一到就给你打电话。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":" I'll write to you as soon as I get there.",
+      "znText":"我一到那儿就给你写信",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I'm certain he'll go to see the film, because he's bought a ticket.",
+      "znText":"62.我肯定他会去看电影，因为他已经买了票",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I'm going to buy a monthly ticket tomorrow.",
+      "znText":"我想明天买张月票。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I'm not an English major student.",
+      "znText":"我不是英语专业的学生。",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I’m now a distance education student.",
+      "znText":"我是一名远程教育的学生",
+      "userText":"",
+      "keyshow":false
+    },
+    {
+      "enText":"I'm very much eager to improve my oral English.",
+      "znText":"66.我非常渴望改进我的英语口语。",
+      "userText":"",
+      "keyshow":false
+    }
+
+
+
+
+  ]
+}

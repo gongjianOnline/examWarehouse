@@ -1,0 +1,2138 @@
+{
+  "data": [
+    {
+      "title": "Neither Bill or his parents ______ at home.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "is",
+          "value": "A"
+        },
+        {
+          "label": "has",
+          "value": "B"
+        },
+        {
+          "label": "are",
+          "value": "C"
+        },
+        {
+          "label": "was",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "If you don’t want to get wet, you had better _____ this umbrella with you.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "take",
+          "value": "A"
+        },
+        {
+          "label": "to take",
+          "value": "B"
+        },
+        {
+          "label": "taken",
+          "value": "C"
+        },
+        {
+          "label": "for taking",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Measles ______  a long time to get over.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "spend",
+          "value": "A"
+        },
+        {
+          "label": "spends",
+          "value": "B"
+        },
+        {
+          "label": "take",
+          "value": "C"
+        },
+        {
+          "label": "takes",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "-Do you want to wait? -Five days _____ too long for me to wait.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "was",
+          "value": "A"
+        },
+        {
+          "label": "were",
+          "value": "B"
+        },
+        {
+          "label": "is",
+          "value": "C"
+        },
+        {
+          "label": "are",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "There _____ a book and some magazines on the desk.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "is",
+          "value": "A"
+        },
+        {
+          "label": "are",
+          "value": "B"
+        },
+        {
+          "label": "have",
+          "value": "C"
+        },
+        {
+          "label": "has ",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "She is not only my classmate _____ also my good friend. ",
+      "answer": "B",
+      "option": [
+        {
+          "label": "or",
+          "value": "A"
+        },
+        {
+          "label": "but",
+          "value": "B"
+        },
+        {
+          "label": "and",
+          "value": "C"
+        },
+        {
+          "label": "too",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "He asked the waiter _____  the bill.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "on",
+          "value": "A"
+        },
+        {
+          "label": "of",
+          "value": "B"
+        },
+        {
+          "label": "for",
+          "value": "C"
+        },
+        {
+          "label": "after",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "When Lily came home at 5 p.m. yesterday, her mother _______ dinner in the kichen.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "cooked",
+          "value": "A"
+        },
+        {
+          "label": "was cooking",
+          "value": "B"
+        },
+        {
+          "label": "cooks",
+          "value": "C"
+        },
+        {
+          "label": "has cooked",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Di you noticed the guy  ______ head looked like a big potato?",
+      "answer": "C",
+      "option": [
+        {
+          "label": "who",
+          "value": "A"
+        },
+        {
+          "label": "which",
+          "value": "B"
+        },
+        {
+          "label": "whose",
+          "value": "C"
+        },
+        {
+          "label": "whom",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I don’t know the park, but it’s  _______  to be quite beautiful. ",
+      "answer": "A",
+      "option": [
+        {
+          "label": "said",
+          "value": "A"
+        },
+        {
+          "label": "old",
+          "value": "B"
+        },
+        {
+          "label": "spoken",
+          "value": "C"
+        },
+        {
+          "label": "talked",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Mike is better than Peter _____ swimming",
+      "answer": "B",
+      "option": [
+        {
+          "label": "for",
+          "value": "A"
+        },
+        {
+          "label": "at",
+          "value": "B"
+        },
+        {
+          "label": "on",
+          "value": "C"
+        },
+        {
+          "label": "in",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The young lady coming over to us ______ our English teacher; the way she walks tell us that! ",
+      "answer": "A",
+      "option": [
+        {
+          "label": "must be",
+          "value": "A"
+        },
+        {
+          "label": "can be",
+          "value": "B"
+        },
+        {
+          "label": "would be",
+          "value": "C"
+        },
+        {
+          "label": "could be",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Eggs, though rich in nourishments, have ____ of fat．",
+      "answer": "C",
+      "option": [
+        {
+          "label": "a large number of",
+          "value": "A"
+        },
+        {
+          "label": "the large number",
+          "value": "B"
+        },
+        {
+          "label": " a large amount",
+          "value": "C"
+        },
+        {
+          "label": "the large amount",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Neither John _____ his father was able to wake up early enough to catch the morning train．",
+      "answer": "A",
+      "option": [
+        {
+          "label": "no",
+          "value": "A"
+        },
+        {
+          "label": "or",
+          "value": "B"
+        },
+        {
+          "label": "but",
+          "value": "C"
+        },
+        {
+          "label": "and",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Jane’s dress is similar in design ____ her sister’s．",
+      "answer": "C",
+      "option": [
+        {
+          "label": "like",
+          "value": "A"
+        },
+        {
+          "label": "with",
+          "value": "B"
+        },
+        {
+          "label": "to",
+          "value": "C"
+        },
+        {
+          "label": "as",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "His salary as a driver is much higher than ____ ．",
+      "answer": "D",
+      "option": [
+        {
+          "label": "a porter",
+          "value": "A"
+        },
+        {
+          "label": "is a porter",
+          "value": "B"
+        },
+        {
+          "label": "as a porter",
+          "value": "C"
+        },
+        {
+          "label": "that of porter",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "--Write to me when you get home．-- OK,I _____ .",
+      "answer": "C",
+      "option": [
+        {
+          "label": "must",
+          "value": "A"
+        },
+        {
+          "label": "should ",
+          "value": "B"
+        },
+        {
+          "label": "will",
+          "value": "C"
+        },
+        {
+          "label": "can",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Tom is talkative. I’m sure you’ll soon get tired _____ him. ",
+      "answer": "A",
+      "option": [
+        {
+          "label": "of",
+          "value": "A"
+        },
+        {
+          "label": "with",
+          "value": "B"
+        },
+        {
+          "label": "at",
+          "value": "C"
+        },
+        {
+          "label": "on",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I don’t know ____ to deal with such matter.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "wha",
+          "value": "A"
+        },
+        {
+          "label": "how",
+          "value": "B"
+        },
+        {
+          "label": "which",
+          "value": "C"
+        },
+        {
+          "label": "/",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "-- ____ is your girl friend like? -- She is very kind and good-looking.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "How",
+          "value": "A"
+        },
+        {
+          "label": "What",
+          "value": "B"
+        },
+        {
+          "label": "Which",
+          "value": "C"
+        },
+        {
+          "label": "Who",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "--Write to me when you get home．--OK,I _____",
+      "answer": "C",
+      "option": [
+        {
+          "label": "must",
+          "value": "A"
+        },
+        {
+          "label": "should ",
+          "value": "B"
+        },
+        {
+          "label": "will ",
+          "value": "C"
+        },
+        {
+          "label": "can",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "He ____ driving me home, even though I told him I lived nearby．",
+      "answer": "A",
+      "option": [
+        {
+          "label": "insisted on",
+          "value": "A"
+        },
+        {
+          "label": "insisted at",
+          "value": "B"
+        },
+        {
+          "label": "insisted that",
+          "value": "C"
+        },
+        {
+          "label": "insisted in",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "We came finally ____ the conclusion that she has been telling lies all the time．",
+      "answer": "C",
+      "option": [
+        {
+          "label": "of",
+          "value": "A"
+        },
+        {
+          "label": "into",
+          "value": "B"
+        },
+        {
+          "label": "to",
+          "value": "C"
+        },
+        {
+          "label": "at",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I won’t make the ____ mistake next time",
+      "answer": "B",
+      "option": [
+        {
+          "label": "like",
+          "value": "A"
+        },
+        {
+          "label": "same",
+          "value": "B"
+        },
+        {
+          "label": "near",
+          "value": "C"
+        },
+        {
+          "label": "similar",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "He ____ lives in the house where he was born.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "already",
+          "value": "A"
+        },
+        {
+          "label": "yet",
+          "value": "B"
+        },
+        {
+          "label": "still",
+          "value": "C"
+        },
+        {
+          "label": "ever",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I am not used to speaking ____ public",
+      "answer": "A",
+      "option": [
+        {
+          "label": "in",
+          "value": "A"
+        },
+        {
+          "label": "at",
+          "value": "B"
+        },
+        {
+          "label": "on",
+          "value": "C"
+        },
+        {
+          "label": "to",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I didn’t know what to do, but then an idea suddenly _____ to me",
+      "answer": "C",
+      "option": [
+        {
+          "label": "appeared",
+          "value": "A"
+        },
+        {
+          "label": "happened",
+          "value": "B"
+        },
+        {
+          "label": "occurred",
+          "value": "C"
+        },
+        {
+          "label": "emerged",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "A pair of spectacles ___ what I need at the moment",
+      "answer": "A",
+      "option": [
+        {
+          "label": "is",
+          "value": "A"
+        },
+        {
+          "label": "are",
+          "value": "B"
+        },
+        {
+          "label": "has",
+          "value": "C"
+        },
+        {
+          "label": "have",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "You’d better ____ a doctor as soon as possible",
+      "answer": "C",
+      "option": [
+        {
+          "label": "seeing",
+          "value": "A"
+        },
+        {
+          "label": "saw",
+          "value": "B"
+        },
+        {
+          "label": "see",
+          "value": "C"
+        },
+        {
+          "label": "seen",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": " _____ These honors he received a sun of money",
+      "answer": "C",
+      "option": [
+        {
+          "label": "Except",
+          "value": "A"
+        },
+        {
+          "label": "But",
+          "value": "B"
+        },
+        {
+          "label": "Besides",
+          "value": "C"
+        },
+        {
+          "label": "Outside",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Would you let ____ to the park with my classmate, Mum?",
+      "answer": "A",
+      "option": [
+        {
+          "label": "me go",
+          "value": "A"
+        },
+        {
+          "label": "me going ",
+          "value": "B"
+        },
+        {
+          "label": "I go",
+          "value": "C"
+        },
+        {
+          "label": "I going",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I have been looking forward to ____ from my parents.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "hear",
+          "value": "A"
+        },
+        {
+          "label": "being heared",
+          "value": "B"
+        },
+        {
+          "label": "be heared",
+          "value": "C"
+        },
+        {
+          "label": "hearing",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The manager will not ____ us to use his car.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "have",
+          "value": "A"
+        },
+        {
+          "label": "let",
+          "value": "B"
+        },
+        {
+          "label": "agree",
+          "value": "C"
+        },
+        {
+          "label": "allow",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": " _____ Her and then try to copy what she does．",
+      "answer": "D",
+      "option": [
+        {
+          "label": "Mind",
+          "value": "A"
+        },
+        {
+          "label": "See",
+          "value": "B"
+        },
+        {
+          "label": "Stare at",
+          "value": "C"
+        },
+        {
+          "label": "Watch",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Will you _____ me a favor, please? ",
+      "answer": "A",
+      "option": [
+        {
+          "label": "do",
+          "value": "A"
+        },
+        {
+          "label": "make",
+          "value": "B"
+        },
+        {
+          "label": "bring",
+          "value": "C"
+        },
+        {
+          "label": "give",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "It’s bad _____ for you to smoke in the public places where smoking is not allowed．",
+      "answer": "A",
+      "option": [
+        {
+          "label": "behavior",
+          "value": "A"
+        },
+        {
+          "label": "action",
+          "value": "B"
+        },
+        {
+          "label": "manner",
+          "value": "C"
+        },
+        {
+          "label": "movement",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "-it’s a good idea. But who’s going to ____ the plan? - I think John and Peter will.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "carry out",
+          "value": "A"
+        },
+        {
+          "label": "get through",
+          "value": "B"
+        },
+        {
+          "label": "take in",
+          "value": "C"
+        },
+        {
+          "label": "set aside",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The computer system ____ suddenly while he was searching for information on the Internet. ",
+      "answer": "A",
+      "option": [
+        {
+          "label": "broke down",
+          "value": "A"
+        },
+        {
+          "label": "broke out",
+          "value": "B"
+        },
+        {
+          "label": "broke up",
+          "value": "C"
+        },
+        {
+          "label": "broke in",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "If she wants to stay thin, she must make a ____ in her diet.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "change",
+          "value": "A"
+        },
+        {
+          "label": "turn",
+          "value": "B"
+        },
+        {
+          "label": "run",
+          "value": "C"
+        },
+        {
+          "label": "go",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": " ____ theWar of Independence, the United States was an England colony.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "Before",
+          "value": "A"
+        },
+        {
+          "label": "At ",
+          "value": "B"
+        },
+        {
+          "label": "In ",
+          "value": "C"
+        },
+        {
+          "label": "Between",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "A police officer claimed that he had attempted to ___ paying his fare.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "avoid",
+          "value": "A"
+        },
+        {
+          "label": "reject",
+          "value": "B"
+        },
+        {
+          "label": "refuse",
+          "value": "C"
+        },
+        {
+          "label": "neglect",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "While I was in the university, I learned taking a photo, ____ is very useful now for me.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "it",
+          "value": "A"
+        },
+        {
+          "label": "which",
+          "value": "B"
+        },
+        {
+          "label": "that",
+          "value": "C"
+        },
+        {
+          "label": "what",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "On average, a successful lawyer has to talk to several ___ a day. ",
+      "answer": "D",
+      "option": [
+        {
+          "label": "customers",
+          "value": "A"
+        },
+        {
+          "label": "supporters",
+          "value": "B"
+        },
+        {
+          "label": "guests",
+          "value": "C"
+        },
+        {
+          "label": "clients",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "What is the train _____ to Birmingham?",
+      "answer": "C",
+      "option": [
+        {
+          "label": "fee",
+          "value": "A"
+        },
+        {
+          "label": "tip",
+          "value": "B"
+        },
+        {
+          "label": "fare",
+          "value": "C"
+        },
+        {
+          "label": "cost",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "You shouldn’t ____ your time like that, Bob. You have to finish your school work tonight. ",
+      "answer": "C",
+      "option": [
+        {
+          "label": "cut",
+          "value": "A"
+        },
+        {
+          "label": "do",
+          "value": "B"
+        },
+        {
+          "label": "kill",
+          "value": "C"
+        },
+        {
+          "label": "kick",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Both the kids and their parents _____ English, I think. I know it from their accent.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "is",
+          "value": "A"
+        },
+        {
+          "label": "been",
+          "value": "B"
+        },
+        {
+          "label": "are",
+          "value": "C"
+        },
+        {
+          "label": "Was",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I tried to put _____ a telephone call to him, but his line was always busy. ",
+      "answer": "D",
+      "option": [
+        {
+          "label": "over",
+          "value": "A"
+        },
+        {
+          "label": "into",
+          "value": "B"
+        },
+        {
+          "label": "away",
+          "value": "C"
+        },
+        {
+          "label": " through",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I hadn’t seen him for years, but I ______ his voice on the telephone. ",
+      "answer": "B",
+      "option": [
+        {
+          "label": "realized",
+          "value": "A"
+        },
+        {
+          "label": "recognized",
+          "value": "B"
+        },
+        {
+          "label": "discovered",
+          "value": "C"
+        },
+        {
+          "label": "heard",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "She wonders ____ will happen to her private life in the future.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "that",
+          "value": "A"
+        },
+        {
+          "label": "it",
+          "value": "B"
+        },
+        {
+          "label": "this",
+          "value": "C"
+        },
+        {
+          "label": "what",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": " The higher the temperature, ______ the liquid evaporates.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "the faster",
+          "value": "A"
+        },
+        {
+          "label": "the most fast",
+          "value": "B"
+        },
+        {
+          "label": "the slowe",
+          "value": "C"
+        },
+        {
+          "label": "the more slower",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Australia is one of the few countries _____ people drive on the left of the road.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "which",
+          "value": "A"
+        },
+        {
+          "label": "that",
+          "value": "B"
+        },
+        {
+          "label": "where",
+          "value": "C"
+        },
+        {
+          "label": "on which",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Sunday is the day ____ people usually don’t go to work. ",
+      "answer": "A",
+      "option": [
+        {
+          "label": "when",
+          "value": "A"
+        },
+        {
+          "label": "which",
+          "value": "B"
+        },
+        {
+          "label": "in which",
+          "value": "C"
+        },
+        {
+          "label": " on which",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": " _____ you know，David has been well lately.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "Which",
+          "value": "A"
+        },
+        {
+          "label": "As",
+          "value": "B"
+        },
+        {
+          "label": "What",
+          "value": "C"
+        },
+        {
+          "label": "When",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The harder you study, ____ you will learn.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "that",
+          "value": "A"
+        },
+        {
+          "label": "it",
+          "value": "B"
+        },
+        {
+          "label": "this",
+          "value": "C"
+        },
+        {
+          "label": "what",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "They got here an hour ___ than the others.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "early",
+          "value": "A"
+        },
+        {
+          "label": "much early",
+          "value": "B"
+        },
+        {
+          "label": "more early",
+          "value": "C"
+        },
+        {
+          "label": "earlier",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The grey building is the place where the workers live, and the white building is the place where the spare parts _____  .",
+      "answer": "B",
+      "option": [
+        {
+          "label": "are producing",
+          "value": "A"
+        },
+        {
+          "label": "are produced",
+          "value": "B"
+        },
+        {
+          "label": "produced",
+          "value": "C"
+        },
+        {
+          "label": "being produced",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Professor smith promised to look _____ my paper, that is, to read it carefully before the defence.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "after",
+          "value": "A"
+        },
+        {
+          "label": "over",
+          "value": "B"
+        },
+        {
+          "label": "on",
+          "value": "C"
+        },
+        {
+          "label": "into",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Our house is about a mile from the railway station and there are not many houses ____ .",
+      "answer": "A",
+      "option": [
+        {
+          "label": "in between",
+          "value": "A"
+        },
+        {
+          "label": "far apart",
+          "value": "B"
+        },
+        {
+          "label": "among them",
+          "value": "C"
+        },
+        {
+          "label": "from each other",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "As the bus came around the corner, it ran _____ a big tree by the roadside.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "into",
+          "value": "A"
+        },
+        {
+          "label": "on",
+          "value": "B"
+        },
+        {
+          "label": "over",
+          "value": "C"
+        },
+        {
+          "label": "up",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Had you come five minutes earlier, you _____ the train to Birmingham. But now you missed it. ",
+      "answer": "B",
+      "option": [
+        {
+          "label": "would catch",
+          "value": "A"
+        },
+        {
+          "label": "would have caught",
+          "value": "B"
+        },
+        {
+          "label": "could catch",
+          "value": "C"
+        },
+        {
+          "label": "should catch",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Never before ____ see such a terrible car accident on the road.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "I have",
+          "value": "A"
+        },
+        {
+          "label": "have I",
+          "value": "B"
+        },
+        {
+          "label": "I did",
+          "value": "C"
+        },
+        {
+          "label": "did I",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "This kind of material expands _____ the temperature increasing. ",
+      "answer": "C",
+      "option": [
+        {
+          "label": "to",
+          "value": "A"
+        },
+        {
+          "label": "for",
+          "value": "B"
+        },
+        {
+          "label": "with",
+          "value": "C"
+        },
+        {
+          "label": "at",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "People at the party worried about him because no one was aware ____ he had gone.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "of where",
+          "value": "A"
+        },
+        {
+          "label": "of the place where",
+          "value": "B"
+        },
+        {
+          "label": "where",
+          "value": "C"
+        },
+        {
+          "label": "the place",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "A sudden noise of a fire-engine made him ____ to the door. ",
+      "answer": "C",
+      "option": [
+        {
+          "label": "hurrying",
+          "value": "A"
+        },
+        {
+          "label": "hurried",
+          "value": "B"
+        },
+        {
+          "label": "hurry",
+          "value": "C"
+        },
+        {
+          "label": "to hurry",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "No matter ___  , the little sisters managed to round the sheep up and drive them back home safely. ",
+      "answer": "D",
+      "option": [
+        {
+          "label": "it was snowing hard  ",
+          "value": "A"
+        },
+        {
+          "label": "hard it was snowing",
+          "value": "B"
+        },
+        {
+          "label": "how it was snowing hard",
+          "value": "C"
+        },
+        {
+          "label": "how hard it was snowing",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "There’s lots of fruit ____ the tree. Our little cat is also in the tree.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "in",
+          "value": "A"
+        },
+        {
+          "label": "at",
+          "value": "B"
+        },
+        {
+          "label": "under  ",
+          "value": "C"
+        },
+        {
+          "label": "On",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "How can be ____ if he is not ____ ? ",
+      "answer": "B",
+      "option": [
+        {
+          "label": "listen; hearing  ",
+          "value": "A"
+        },
+        {
+          "label": "hear; listening ",
+          "value": "B"
+        },
+        {
+          "label": "be listening;  heard",
+          "value": "C"
+        },
+        {
+          "label": "be hearing; listened to",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The students were all entertained in a Mexican restaurant, at Professor Brian’s _____ .  ",
+      "answer": "C",
+      "option": [
+        {
+          "label": "money",
+          "value": "A"
+        },
+        {
+          "label": "pay",
+          "value": "B"
+        },
+        {
+          "label": "expense",
+          "value": "C"
+        },
+        {
+          "label": "loss",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Tom what did you do with my documents? I have never seen such a ____ and disorder.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "mass",
+          "value": "A"
+        },
+        {
+          "label": "mess",
+          "value": "B"
+        },
+        {
+          "label": "guess",
+          "value": "C"
+        },
+        {
+          "label": "bus",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The atmosphere ____ certain gases mixed together in definite proportions. ",
+      "answer": "C",
+      "option": [
+        {
+          "label": "composes of",
+          "value": "A"
+        },
+        {
+          "label": "is made up",
+          "value": "B"
+        },
+        {
+          "label": "consists of",
+          "value": "C"
+        },
+        {
+          "label": "makes up of",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The girl is ____ of a film star.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "somebody",
+          "value": "A"
+        },
+        {
+          "label": "something",
+          "value": "B"
+        },
+        {
+          "label": "anybody",
+          "value": "C"
+        },
+        {
+          "label": "anyone",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "It’s time we ______ the lecture because everybody has arrived. ",
+      "answer": "D",
+      "option": [
+        {
+          "label": "will start",
+          "value": "A"
+        },
+        {
+          "label": "shall start",
+          "value": "B"
+        },
+        {
+          "label": "start",
+          "value": "C"
+        },
+        {
+          "label": "started",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Therefore, other things _____ equal, the member of workers that employers want decreases.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "is",
+          "value": "A"
+        },
+        {
+          "label": "are  ",
+          "value": "B"
+        },
+        {
+          "label": "being",
+          "value": "C"
+        },
+        {
+          "label": "having",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Two days is not enough for him to finish the work. He needs ____ day.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "other",
+          "value": "A"
+        },
+        {
+          "label": "the other",
+          "value": "B"
+        },
+        {
+          "label": "the third",
+          "value": "C"
+        },
+        {
+          "label": "a third",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The red flower goes from one to _____ in the class.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "the other  ",
+          "value": "A"
+        },
+        {
+          "label": "others ",
+          "value": "B"
+        },
+        {
+          "label": "another",
+          "value": "C"
+        },
+        {
+          "label": "other",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Once environmental damage ______ , it takes many years for the system to recover. ",
+      "answer": "D",
+      "option": [
+        {
+          "label": "is to do   ",
+          "value": "A"
+        },
+        {
+          "label": "does ",
+          "value": "B"
+        },
+        {
+          "label": "had done ",
+          "value": "C"
+        },
+        {
+          "label": "is done ",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "We worked hard and completed the task _____ .",
+      "answer": "C",
+      "option": [
+        {
+          "label": "in the time  ",
+          "value": "A"
+        },
+        {
+          "label": "on the time ",
+          "value": "B"
+        },
+        {
+          "label": "ahead of time  ",
+          "value": "C"
+        },
+        {
+          "label": "before time.",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": " I didn’t expect you to turn ______ at the meeting yesterday.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "up",
+          "value": "A"
+        },
+        {
+          "label": "to  ",
+          "value": "B"
+        },
+        {
+          "label": "out",
+          "value": "C"
+        },
+        {
+          "label": "over",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I’d like the teacher _______ classes are very interesting and creative. ",
+      "answer": "C",
+      "option": [
+        {
+          "label": "which",
+          "value": "A"
+        },
+        {
+          "label": "who",
+          "value": "B"
+        },
+        {
+          "label": "whose  ",
+          "value": "C"
+        },
+        {
+          "label": "what",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "He is not seriously ill, only a _____ headache. ",
+      "answer": "C",
+      "option": [
+        {
+          "label": "obvious",
+          "value": "A"
+        },
+        {
+          "label": "delicate",
+          "value": "B"
+        },
+        {
+          "label": "slight ",
+          "value": "C"
+        },
+        {
+          "label": "temporary",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The boy is not happy at the new school. He has ____ friends there.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "few",
+          "value": "A"
+        },
+        {
+          "label": "a few",
+          "value": "B"
+        },
+        {
+          "label": "little",
+          "value": "C"
+        },
+        {
+          "label": "a little",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I fell and hurt myself while I _____ basketball yesterday. ",
+      "answer": "A",
+      "option": [
+        {
+          "label": "was playing ",
+          "value": "A"
+        },
+        {
+          "label": "am playing ",
+          "value": "B"
+        },
+        {
+          "label": "play ",
+          "value": "C"
+        },
+        {
+          "label": "played ",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Tom _____ more than twenty pounds on the novel. ",
+      "answer": "A",
+      "option": [
+        {
+          "label": "spent",
+          "value": "A"
+        },
+        {
+          "label": "paid",
+          "value": "B"
+        },
+        {
+          "label": "cost",
+          "value": "C"
+        },
+        {
+          "label": "took",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Don’t forget ____ the window before leaving the room.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "to have closed ",
+          "value": "A"
+        },
+        {
+          "label": "to close",
+          "value": "B"
+        },
+        {
+          "label": "having closed",
+          "value": "C"
+        },
+        {
+          "label": "closing",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Twenty people were _____ wounded in the air crash.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "quickly",
+          "value": "A"
+        },
+        {
+          "label": "wrongly",
+          "value": "B"
+        },
+        {
+          "label": "bitterly",
+          "value": "C"
+        },
+        {
+          "label": "seriously ",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The top of the Great Wall is ____ for five horses to go side by side.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "wide ",
+          "value": "A"
+        },
+        {
+          "label": "so wide  ",
+          "value": "B"
+        },
+        {
+          "label": "wide enough  ",
+          "value": "C"
+        },
+        {
+          "label": "enough wide",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "We have missed the last bus, I’m afraid we have no _____ but to take taxi. ",
+      "answer": "B",
+      "option": [
+        {
+          "label": "way",
+          "value": "A"
+        },
+        {
+          "label": "choice",
+          "value": "B"
+        },
+        {
+          "label": "possibility ",
+          "value": "C"
+        },
+        {
+          "label": "selection",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "Nancy is considered to be _____ the other students in her class. ",
+      "answer": "D",
+      "option": [
+        {
+          "label": "less intelligent",
+          "value": "A"
+        },
+        {
+          "label": "the most intelligent",
+          "value": "B"
+        },
+        {
+          "label": "intelligent as well",
+          "value": "C"
+        },
+        {
+          "label": "as intelligent as ",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "It’s _____ that he was wrong. ",
+      "answer": "C",
+      "option": [
+        {
+          "label": "clearly",
+          "value": "A"
+        },
+        {
+          "label": "clarity   ",
+          "value": "B"
+        },
+        {
+          "label": "clear  ",
+          "value": "C"
+        },
+        {
+          "label": "clearing",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": " ____  you are leaving tomorrow, we can have dinner together tonight.",
+      "answer": "A",
+      "option": [
+        {
+          "label": "Since",
+          "value": "A"
+        },
+        {
+          "label": "While ",
+          "value": "B"
+        },
+        {
+          "label": "For ",
+          "value": "C"
+        },
+        {
+          "label": "Before",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I would like to do the job ______ you don’t force me to study.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "in case  ",
+          "value": "A"
+        },
+        {
+          "label": "although",
+          "value": "B"
+        },
+        {
+          "label": "though",
+          "value": "C"
+        },
+        {
+          "label": "as long as",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The reason I did not go abroad was ______  a job in my home town.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "because ",
+          "value": "A"
+        },
+        {
+          "label": "due to",
+          "value": "B"
+        },
+        {
+          "label": "that I got ",
+          "value": "C"
+        },
+        {
+          "label": "because of getting",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": " _____ She survived the accident is miracle.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "What",
+          "value": "A"
+        },
+        {
+          "label": "That",
+          "value": "B"
+        },
+        {
+          "label": "As",
+          "value": "C"
+        },
+        {
+          "label": "Which",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "I often see _____ the road on his way home.",
+      "answer": "B",
+      "option": [
+        {
+          "label": "he cross",
+          "value": "A"
+        },
+        {
+          "label": "him cross ",
+          "value": "B"
+        },
+        {
+          "label": "him crossed",
+          "value": "C"
+        },
+        {
+          "label": "he crossing",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "His mother ____ alone since his father died.",
+      "answer": "C",
+      "option": [
+        {
+          "label": "lived",
+          "value": "A"
+        },
+        {
+          "label": "lives  ",
+          "value": "B"
+        },
+        {
+          "label": "has lived",
+          "value": "C"
+        },
+        {
+          "label": "is living",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "The workers are busy ____ models for the exhibition.",
+      "answer": "D",
+      "option": [
+        {
+          "label": "to make",
+          "value": "A"
+        },
+        {
+          "label": "with making  ",
+          "value": "B"
+        },
+        {
+          "label": "being making ",
+          "value": "C"
+        },
+        {
+          "label": "making",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "title": "It was well known that Thomas Edison _____ the electric lamp. ",
+      "answer": "B",
+      "option": [
+        {
+          "label": "discovered  ",
+          "value": "A"
+        },
+        {
+          "label": "invented",
+          "value": "B"
+        },
+        {
+          "label": "found",
+          "value": "C"
+        },
+        {
+          "label": "developed",
+          "value": "D"
+        }
+      ]
+    }
+  ]
+}
